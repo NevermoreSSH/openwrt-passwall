@@ -115,6 +115,9 @@ msgstr "当前节点：%s"
 msgid "Filter Mode"
 msgstr "过滤模式"
 
+msgid "No Filter"
+msgstr "不过滤"
+
 msgid "A/AAAA type"
 msgstr "A/AAAA 类型"
 
